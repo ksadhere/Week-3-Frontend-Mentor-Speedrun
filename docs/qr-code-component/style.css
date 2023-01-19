@@ -21,7 +21,7 @@ body {
   background-color: var(--light-gray);
 }
 .qr-code {
-  margin: 10% auto;
+  margin: 6% auto;
   max-width: calc(var(--mobile) - 2%);
 }
 
