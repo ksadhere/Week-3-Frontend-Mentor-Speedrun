@@ -1,6 +1,6 @@
 # Week 3 Frontend Speedrun
 
-[Live Site URL](https://ksadhere.github.io/Week-3-Frontend-Mentor-Speedrun/)
+[Live Site](https://ksadhere.github.io/Week-3-Frontend-Mentor-Speedrun/)
 
 ## Stage 1 - HTML & CSS - less complex layouts
 
