@@ -19,9 +19,10 @@ body {
   font-family: 'Outfit', sans-serif;
   box-sizing: border-box;
   background-color: var(--light-gray);
+  height: 80vh;
 }
 .qr-code {
-  margin: 6% auto;
+  margin: 15% auto;
   max-width: calc(var(--mobile) - 2%);
 }
 
