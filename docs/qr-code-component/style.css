@@ -15,6 +15,10 @@
   --desktop: 1440px;
 }
 
+html {
+  background-color: var(--light-gray);
+}
+
 body {
   font-family: 'Outfit', sans-serif;
   box-sizing: border-box;
