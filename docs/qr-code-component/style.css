@@ -23,7 +23,7 @@ body {
   font-family: 'Outfit', sans-serif;
   box-sizing: border-box;
   background-color: var(--light-gray);
-  //min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   align-items: center;
   justify-content: center;
